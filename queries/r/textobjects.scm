@@ -1,4 +1,9 @@
 ; block
+[
+ (brace_list)
+ (subset)
+] @block.inner @block.outer
+
 ; call
 (call) @call.outer
 
