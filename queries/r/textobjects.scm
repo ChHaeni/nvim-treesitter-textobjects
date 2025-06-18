@@ -1,6 +1,6 @@
 ; block
 [
- (brace_list)
+ (braced_expression)
  (subset)
 ] @block.inner @block.outer
 
